@@ -1,0 +1,4 @@
+# .gitignore
+__pycache__
+mi_env38
+.mi_venv
